@@ -4,11 +4,11 @@
 
 ## Project Overview
 
-This project is a React-based data visualization dashboard designed to modernize membership reporting. It transitions reporting from static Excel sheets to dynamic, interactive visualizations. 
+This project is a React-based data visualization dashboard designed to modernize membership reporting. It transitions reporting from static sheets to dynamic, interactive visualizations. 
 
 
 
-It provides real-time insights into the membership lifecycle, from candidate pipeline flow to financial throughput and demographic census data.
+It provides insights into the membership lifecycle, from candidate pipeline flow to financial throughput and demographic census data.
 
 
 
